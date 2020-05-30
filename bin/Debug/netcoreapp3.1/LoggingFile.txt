@@ -1,0 +1,5 @@
+[30/05/2020 01:30:19] Metodo: Add(int i, int j) - Resultado: 30
+[30/05/2020 01:30:20] Método: Subtract(int i, int j) - Resultado: 40
+[30/05/2020 01:30:20] Método: Multiply(int i, int j) - Resultado: 144
+[30/05/2020 01:30:29] System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Logging___Projeto_Github.MainClass.BadMethod() in A:\Devel\Cursos\C#\Logging - Projeto Github\src\Main.cs:line 17

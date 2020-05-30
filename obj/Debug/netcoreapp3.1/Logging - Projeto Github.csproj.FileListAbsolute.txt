@@ -1,0 +1,13 @@
+A:\Devel\Cursos\C#\Logging - Projeto Github\obj\Debug\netcoreapp3.1\Logging - Projeto Github.csprojAssemblyReference.cache
+A:\Devel\Cursos\C#\Logging - Projeto Github\obj\Debug\netcoreapp3.1\Logging - Projeto Github.AssemblyInfoInputs.cache
+A:\Devel\Cursos\C#\Logging - Projeto Github\obj\Debug\netcoreapp3.1\Logging - Projeto Github.AssemblyInfo.cs
+A:\Devel\Cursos\C#\Logging - Projeto Github\obj\Debug\netcoreapp3.1\Logging - Projeto Github.csproj.CoreCompileInputs.cache
+A:\Devel\Cursos\C#\Logging - Projeto Github\bin\Debug\netcoreapp3.1\Logging - Projeto Github.exe
+A:\Devel\Cursos\C#\Logging - Projeto Github\bin\Debug\netcoreapp3.1\Logging - Projeto Github.deps.json
+A:\Devel\Cursos\C#\Logging - Projeto Github\bin\Debug\netcoreapp3.1\Logging - Projeto Github.runtimeconfig.json
+A:\Devel\Cursos\C#\Logging - Projeto Github\bin\Debug\netcoreapp3.1\Logging - Projeto Github.runtimeconfig.dev.json
+A:\Devel\Cursos\C#\Logging - Projeto Github\bin\Debug\netcoreapp3.1\Logging - Projeto Github.dll
+A:\Devel\Cursos\C#\Logging - Projeto Github\bin\Debug\netcoreapp3.1\Logging - Projeto Github.pdb
+A:\Devel\Cursos\C#\Logging - Projeto Github\obj\Debug\netcoreapp3.1\Logging - Projeto Github.dll
+A:\Devel\Cursos\C#\Logging - Projeto Github\obj\Debug\netcoreapp3.1\Logging - Projeto Github.pdb
+A:\Devel\Cursos\C#\Logging - Projeto Github\obj\Debug\netcoreapp3.1\Logging - Projeto Github.genruntimeconfig.cache

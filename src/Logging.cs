@@ -23,8 +23,8 @@ namespace Logging___Projeto_Github
                 using(StreamWriter Log = new StreamWriter(this.Filename, true)){
                     Log.WriteLine("[{0}] {1}", DateTime.Now, Message);
                 }
-            }catch(UnauthorizedAcessException e){
-                Console.WriteLine("Erro! Arquivo de Logging não pode ser acessado!");
+            }catch(UnauthorizedAccessException e){
+                Console.WriteLine("Erro! Arquivo de Logging não pode ser acessado!" + e);
             }
         }
 
@@ -36,7 +36,7 @@ namespace Logging___Projeto_Github
                     LogText = Log.ReadToEnd();
                 }
             }catch(FileNotFoundException e){
-                Console.WriteLine("Erro! Arquivo de Logging não encontrado!");
+                Console.WriteLine("Erro {0}! Arquivo de Logging não encontrado!", e);
             }
 
             Console.WriteLine(LogText);
